@@ -6,7 +6,7 @@ import "./App.css"
 import ChallengeSection from '../ChallengeSection/ChallengeSection'
 import { SAMPLE_PARAGRAPHS } from '../../data/sampleParagraph'
 
-const TotalTime = 2;
+const TotalTime = 60;
 const serviceUrl = 'http://metaphorpsum.com/paragraphs/1/9';
 const DefaultState = {
     selectedParagraph: "",
